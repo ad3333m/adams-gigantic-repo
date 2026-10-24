@@ -15,7 +15,7 @@
   p { margin: 0 0 22px; opacity: .7; }
   a, button { display: block; width: 100%; box-sizing: border-box; margin: 10px 0; padding: 15px; border: 0; border-radius: 14px;
               font: inherit; font-size: 17px; font-weight: 600; color: #fff; text-decoration: none; cursor: pointer; }
-  .alt { background: #7b5cff; } .side { background: #2c8a6f; } .copy { background: rgba(255,255,255,.14); }
+  .alt { background: #7b5cff; } .side { background: #2c8a6f; } .krava { background: #e0457b; } .copy { background: rgba(255,255,255,.14); }
 </style>
 </head>
 <body>
@@ -24,6 +24,7 @@
   <p>44,000+ sideload apps from 300+ sources, Alan's Gigantic Repo included.</p>
   <a class="alt" href="altstore://source?url=https://raw.githubusercontent.com/ad3333m/adams-gigantic-repo/main/repo.json">Add to AltStore</a>
   <a class="side" href="sidestore://source?url=https://raw.githubusercontent.com/ad3333m/adams-gigantic-repo/main/repo.json">Add to SideStore</a>
+  <a class="krava" href="kravasigner://source/https://raw.githubusercontent.com/ad3333m/adams-gigantic-repo/main/repo.json">Add to KravaSign</a>
   <button class="copy" onclick="navigator.clipboard.writeText('https://raw.githubusercontent.com/ad3333m/adams-gigantic-repo/main/repo.json').then(() => this.textContent = 'Copied!')">Copy source URL (Feather, ESign…)</button>
 </main>
 </body>
