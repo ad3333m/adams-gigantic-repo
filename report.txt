@@ -2,7 +2,7 @@
   9631  AppTesters IPA Repo  <https://repository.apptesters.org>
      0  AppTesters IPA Repo  <https://repo.apptesters.org>
      2  CyPwn IPA Library  <https://ipa.cypwn.xyz/cypwn.json>
-  1112  Accretion  <https://getaccretion.github.io/source.json>
+  1111  Accretion  <https://getaccretion.github.io/source.json>
     11  WuXu's Library++  <https://wuxu1.github.io/wuxu-complete-plus.json>
     11  WuXu's Library  <https://wuxu1.github.io/wuxu-complete.json>
     23  Quantum Source  <https://quarksources.github.io/quantumsource.json>
@@ -19,7 +19,7 @@ FAIL https://aio.zxcvbn.fyi/r/repo.altstore.json  (URLError: <urlopen error [Err
      3  Realm iOS Library  <https://raw.githubusercontent.com/realmios/library/HEAD/repo.json>
      3  Unofficial Epic Games IPA Store  <https://raw.githubusercontent.com/drphe/KhoIPA/HEAD/upload/EpicGamesIPASource.json>
 FAIL https://repo.starfiles.co/public?gbox  (HTTPError: HTTP Error 404: Not Found)
-     1  ULTRAHORSE Market  <https://cdn.squadblast.com/market/marketplace.json>
+     0  ULTRAHORSE Market  <https://cdn.squadblast.com/market/marketplace.json>
      5  AltStore  <https://apps.altstore.io>
      0  AltStore  <https://cdn.altstore.io/file/altstore/apps.json>
      1  SideStore Official  <https://apps.sidestore.io>
@@ -36,7 +36,7 @@ FAIL https://nightly.link/SideStore/SideStore/workflows/nightly/main/SideStore.a
 FAIL https://buildbot.libretro.com/nightly/apple/ios-arm64/RetroArch.altstore.json  (HTTPError: HTTP Error 404: Not Found)
 FAIL https://ppsspp.org/altstore.json  (JSONDecodeError: Expecting value: line 1 column 1 (char 0))
 FAIL https://www.gryphel.com/c/minivmac/altstore.json  (HTTPError: HTTP Error 404: Not Found)
-     1  Ignited Source  <https://altstore.ignitedemulator.com>
+     0  Ignited Source  <https://altstore.ignitedemulator.com>
 FAIL https://stikdebug.xyz/apps.json  (HTTPError: HTTP Error 404: Not Found)
 FAIL https://altstore.9ani.app  (HTTPError: HTTP Error 522: <none>)
      0  PokeMMO  <https://pokemmo.com/altstore/>
@@ -45,10 +45,10 @@ FAIL https://altstore.9ani.app  (HTTPError: HTTP Error 522: <none>)
 FAIL https://floridaman7588.me/altjb/altsource.json  (URLError: <urlopen error [Errno 11001] getaddrinfo failed>)
 FAIL https://havoc.app/altstore.json  (HTTPError: HTTP Error 404: Not Found)
      1  iTorrent Source  <https://xitrix.github.io/iTorrent/AltStore.json>
-     1  Michael-128  <https://raw.githubusercontent.com/Michael-128/qBitControl-releases/main/source.json>
-     1  Spicy Sparks  <https://esound.app/downloads/source.json>
+     0  Michael-128  <https://raw.githubusercontent.com/Michael-128/qBitControl-releases/main/source.json>
+     0  Spicy Sparks  <https://esound.app/downloads/source.json>
 FAIL https://bringyour.com/altstore/source.json  (HTTPError: HTTP Error 404: Not Found)
-     3  The App Fair Project  <https://appfair.net/altstore.json>
+     0  The App Fair Project  <https://appfair.net/altstore.json>
      0  Laoalts  <https://alts.lao.sb>
      3  SpotCompiled  <https://raw.githubusercontent.com/SpotCompiled/SpotC-Repo/HEAD/AltStore%20Repo.json>
      0  SpotCompiled  <https://raw.githubusercontent.com/yodaluca23/SpotC-AltStore-Repo/main/AltStore%20Repo.json>
@@ -68,16 +68,16 @@ FAIL https://dvntm0.github.io/apps.json  (HTTPError: HTTP Error 404: Not Found)
      1  StreamerApp Source  <https://raw.githubusercontent.com/StreamerApp/Streamer/main/altstore.json>
      1  uYouEnhanced Source  <https://raw.githubusercontent.com/arichornlover/arichornlover.github.io/main/apps.json>
     17  Panda App Ru++  <https://raw.githubusercontent.com/vizunchik/AltStoreRus/master/apps.json>
-     1  Tip  <https://raw.githubusercontent.com/ChuteSpyro/ChutSpyroAltSources/refs/heads/main/ChutSpyroAltSource>
+     0  Tip  <https://raw.githubusercontent.com/ChuteSpyro/ChutSpyroAltSources/refs/heads/main/ChutSpyroAltSource>
      2  Bunduuk's AltStore  <https://bunduuk.github.io/altstore-source/apps.json>
      2  crystall1ne.dev  <https://alt.crystall1ne.dev>
-     7  stux  <https://alt.stux.me/repo.json>
+     0  stux  <https://alt.stux.me/repo.json>
 FAIL https://altstore.nuumi.io/source.json  (URLError: <urlopen error [Errno 11001] getaddrinfo failed>)
 FAIL https://hann8n.github.io/JackCracks/MovieboxPro.json  (HTTPError: HTTP Error 404: Not Found)
 FAIL https://peopledrop.app/apps.json  (JSONDecodeError: Expecting value: line 1 column 1 (char 0))
      0  Toshiaki Shirakura  <https://polymorph-distribution.netlify.app/source.json>
-     1  Volksverpetzer  <https://vvpapps.b-cdn.net/source.json>
-     1  CARDMATE  <https://weztling.se/altstore.json>
+     0  Volksverpetzer  <https://vvpapps.b-cdn.net/source.json>
+     0  CARDMATE  <https://weztling.se/altstore.json>
      3  Applesauce  <https://raw.githubusercontent.com/0xjohnnydev/Applesauce/HEAD/distribution/altstore-source.json>
      1  Navic Repository  <https://raw.githubusercontent.com/10000Je/navic-sidestore-source/HEAD/source.json>
      1  Mangatan  <https://raw.githubusercontent.com/1Selxo/Mangatan/HEAD/repo/source.json>
@@ -99,7 +99,7 @@ FAIL https://peopledrop.app/apps.json  (JSONDecodeError: Expecting value: line 1
      0  Apollo for Reddit  <https://raw.githubusercontent.com/Balackburn/Apollo/HEAD/apps.json>
      1  Cercube+Extra  <https://raw.githubusercontent.com/Balackburn/CercubePlusAltstore/HEAD/apps.json>
      1  qBitController  <https://raw.githubusercontent.com/Bartuzen/qbitcontroller-altstore/HEAD/apps.json>
-    30  A BekEs | بيكاس   <https://raw.githubusercontent.com/BekEs-505/Apps/HEAD/Repo.json>
+    29  A BekEs | بيكاس   <https://raw.githubusercontent.com/BekEs-505/Apps/HEAD/Repo.json>
     81  BetMC IPA  <https://raw.githubusercontent.com/BetMC2411/BetMC_Minecraft_Archive/HEAD/BetMC_IPA_Repo.json>
      8  🍻 » Bitte ein Git! Repo 🗿  <https://raw.githubusercontent.com/Bitte-ein-Git/sidestore-repo/HEAD/apps.json>
      1  Openspot  <https://raw.githubusercontent.com/BlackHatDevX/openspot-music-app/HEAD/apps.json>
@@ -109,7 +109,7 @@ FAIL https://peopledrop.app/apps.json  (JSONDecodeError: Expecting value: line 1
      2  Chickens Repo  <https://raw.githubusercontent.com/Chickenwng/Repo/HEAD/Chickens Repo.json>
      8  DanielTheManiel's Repo  <https://raw.githubusercontent.com/Dan1elTheMan1el/IOS-Repo/HEAD/altstore-repo.json>
      0  DanielTheManiel's Repo  <https://raw.githubusercontent.com/Dan1elTheMan1el/IOS-Repo/HEAD/resources/my-apps.json>
-     4  Apple Arcade  <https://raw.githubusercontent.com/DevWithARat/Doodledrepo.github.io/HEAD/AARepo.json>
+     3  Apple Arcade  <https://raw.githubusercontent.com/DevWithARat/Doodledrepo.github.io/HEAD/AARepo.json>
      1  doodled Source  <https://raw.githubusercontent.com/DevWithARat/Doodledrepo.github.io/HEAD/repo.json>
      1  ElectricS01's Source  <https://raw.githubusercontent.com/ElectricS01/Altstore-Source/HEAD/source.json>
     23  FR-FFT's Agar.io Mod collection  <https://raw.githubusercontent.com/FR-FFT/AgarioMods/HEAD/esign_repo.json>
@@ -131,7 +131,7 @@ FAIL https://peopledrop.app/apps.json  (JSONDecodeError: Expecting value: line 1
      1  Cascade  <https://raw.githubusercontent.com/Leviidev/Cascade/HEAD/source.json>
      1  Husk  <https://raw.githubusercontent.com/Leviidev/Husk/HEAD/altsource.json>
      0  FluxDO Source  <https://raw.githubusercontent.com/Lingyan000/fluxdo/HEAD/altstore/source.json>
-     1  FeeKee  <https://raw.githubusercontent.com/LocoVoco/locovoco.github.io/HEAD/source.json>
+     0  FeeKee  <https://raw.githubusercontent.com/LocoVoco/locovoco.github.io/HEAD/source.json>
      1  AniTV  <https://raw.githubusercontent.com/M2203114/anitv-releases/HEAD/repo.json>
      2  TwitchUnblock Repo  <https://raw.githubusercontent.com/MXFia19/TwitchUnblock/HEAD/apps.json>
      1  DukeX  <https://raw.githubusercontent.com/MaftyManicEMU/DukeX/HEAD/altsource/source.json>
@@ -160,7 +160,7 @@ FAIL https://peopledrop.app/apps.json  (JSONDecodeError: Expecting value: line 1
     10  gloop's Repo  <https://raw.githubusercontent.com/ReallySprinkles/ReallySprinkles/HEAD/altstorerepo.json>
      1  Positive Thinker  <https://raw.githubusercontent.com/RemiDormoy/positive_thinker/HEAD/source.json>
      1  Retribution App Repo  <https://raw.githubusercontent.com/Retribution-Mod/retribution-tweak/HEAD/app-repo.json>
-     1  Rhizomatica  <https://raw.githubusercontent.com/Rhizomatica/mercury/HEAD/docs/altstore/source.json>
+     0  Rhizomatica  <https://raw.githubusercontent.com/Rhizomatica/mercury/HEAD/docs/altstore/source.json>
      1  AnymeX  <https://raw.githubusercontent.com/RyanYuuki/AnymeX/HEAD/repo/source.json>
      1  Apps by Sab44  <https://raw.githubusercontent.com/Sab44/omni-for-pyload/HEAD/ios/AltStoreSource.json>
      0  ryP0  <https://raw.githubusercontent.com/Sami-Wali/ryP0/HEAD/repo.json>
@@ -187,7 +187,7 @@ FAIL https://raw.githubusercontent.com/ThePizzaMan865/DOOM-IPA-S/HEAD/main/repo.
      1  SpotiFLAC Mobile Source  <https://raw.githubusercontent.com/ZuanCrisp/SpotiFLAC-Mobile/HEAD/apps.json>
      1  Nebula Repository  <https://raw.githubusercontent.com/adarsh0s/Nebula/HEAD/repo.json>
      3  alnoise's SideStore Repo  <https://raw.githubusercontent.com/alnoisegit/sidestore-repo/HEAD/alnoiserepo.json>
-     1  Skate 3 Recompiled  <https://raw.githubusercontent.com/andrewnakas/skate3-ios-setup/HEAD/source.json>
+     0  Skate 3 Recompiled  <https://raw.githubusercontent.com/andrewnakas/skate3-ios-setup/HEAD/source.json>
      1  addy.io  <https://raw.githubusercontent.com/anonaddy/addy-ios/HEAD/altsource/altsource.json>
      5  ApoloSSH repo  <https://raw.githubusercontent.com/apolossh/apolossh.github.io/HEAD/repo.json>
      1  Photo Cleaner  <https://raw.githubusercontent.com/azu/photo-cleaner/HEAD/altstore/apps.json>
@@ -215,8 +215,8 @@ FAIL https://raw.githubusercontent.com/castdrian/adp/HEAD/app-repo.json  (JSONDe
      2  https://raw.githubusercontent.com/dvntm0/AltStore/HEAD/tweak_repo.json  <https://raw.githubusercontent.com/dvntm0/AltStore/HEAD/tweak_repo.json>
      1  Portal Repository  <https://raw.githubusercontent.com/dylan2280/Portal-Dev/HEAD/app-repo.json>
      4  PlusPlus Repo  <https://raw.githubusercontent.com/edwardayala/edwardayala.github.io/HEAD/repo.json>
-     1  FMHY App  <https://raw.githubusercontent.com/eli32-vlc/fmhy-app/HEAD/repo.json>
-     1  My Example Source  <https://raw.githubusercontent.com/epicfurry/epicfurry.github.io/HEAD/repo.json>
+     0  FMHY App  <https://raw.githubusercontent.com/eli32-vlc/fmhy-app/HEAD/repo.json>
+     0  My Example Source  <https://raw.githubusercontent.com/epicfurry/epicfurry.github.io/HEAD/repo.json>
      1  RyukSign Repository  <https://raw.githubusercontent.com/faroukbmiled/RyukSign/HEAD/app-repo.json>
      0  LiveContainer  <https://raw.githubusercontent.com/flekstore/LiveContainer-FS/HEAD/apps.json>
      1  LinPad  <https://raw.githubusercontent.com/fspecii/LinPad/HEAD/release/source.json>
@@ -233,11 +233,11 @@ FAIL https://raw.githubusercontent.com/hasnainzxc/alt-store/HEAD/repo.json  (JSO
      1  Infinity EventOS  <https://raw.githubusercontent.com/infinity-events/Infinity-eventOS-dashboard/HEAD/altstore/source.json>
      1  Twork Beta  <https://raw.githubusercontent.com/iteaky/twork-altstore-source/HEAD/source.json>
      5  DirtyRepo  <https://raw.githubusercontent.com/j3qq4h7h2v/json-ipa-repos/HEAD/4PERTURE_DirtyRepo_DirtyRepo.json>
-     1  Jocore's AltStore Repo  <https://raw.githubusercontent.com/j3qq4h7h2v/json-ipa-repos/HEAD/JustJocore_AltRepo_repo.json>
+     0  Jocore's AltStore Repo  <https://raw.githubusercontent.com/j3qq4h7h2v/json-ipa-repos/HEAD/JustJocore_AltRepo_repo.json>
      3  Dan's Workshop  <https://raw.githubusercontent.com/j3qq4h7h2v/json-ipa-repos/HEAD/dvntm0_AltStore_repo.json>
      1  My Example Source  <https://raw.githubusercontent.com/j3qq4h7h2v/json-ipa-repos/HEAD/ismandd_DeltaRepo_repo.json>
      2  My Example Source  <https://raw.githubusercontent.com/j3qq4h7h2v/json-ipa-repos/HEAD/son0430_TestRepo_TestRepo.json>
-     6  Stuffed's Repo  <https://raw.githubusercontent.com/j3qq4h7h2v/json-ipa-repos/HEAD/stuffed18_Esign-Repo_myrepo.json>
+     5  Stuffed's Repo  <https://raw.githubusercontent.com/j3qq4h7h2v/json-ipa-repos/HEAD/stuffed18_Esign-Repo_myrepo.json>
      1  Jacksonvil Apps  <https://raw.githubusercontent.com/jacksonvil-s/openpulse/HEAD/source.json>
      0  IW4LJ  <https://raw.githubusercontent.com/jesaias1/IW4LJ/HEAD/altstore/source.json>
      1  Awareness Source  <https://raw.githubusercontent.com/joergs-git/awareness/HEAD/altstore/apps.json>
@@ -245,11 +245,11 @@ FAIL https://raw.githubusercontent.com/hasnainzxc/alt-store/HEAD/repo.json  (JSO
      1  IQ Tool  <https://raw.githubusercontent.com/jonas7414/iqos_tool_ios_app/HEAD/apps.json>
      1  joshi's  <https://raw.githubusercontent.com/joshi1999/joshi1999.github.io/HEAD/source.json>
      1  Resonus  <https://raw.githubusercontent.com/juananzzz/resonus/HEAD/Source.json>
-     1  Rain  <https://raw.githubusercontent.com/kmljkjj/RainTweak/HEAD/app-repo.json>
+     0  Rain  <https://raw.githubusercontent.com/kmljkjj/RainTweak/HEAD/app-repo.json>
      1  Mangayomi  <https://raw.githubusercontent.com/kodjodevf/mangayomi/HEAD/repo/source.json>
      1  Cyanide  <https://raw.githubusercontent.com/kolbicz/Cyanide/HEAD/source.json>
      1  FLACidal  <https://raw.githubusercontent.com/kushiemoon-dev/FLACidal-Mobile/HEAD/altstore/apps.json>
-     1  JSTorrent  <https://raw.githubusercontent.com/kzahel/jstorrent-typescript/HEAD/website/public/altstore-source.json>
+     0  JSTorrent  <https://raw.githubusercontent.com/kzahel/jstorrent-typescript/HEAD/website/public/altstore-source.json>
      1  Eagle  <https://raw.githubusercontent.com/leonardob8777-bit/Eagle/HEAD/source.json>
      0  gen1recomp++ App Repo  <https://raw.githubusercontent.com/marvynmesquita/gen1recomp-3DS/HEAD/romfs/mobile/ios/app-repo.json>
      1  Empo  <https://raw.githubusercontent.com/mateo-m/empo-app/HEAD/altstore-source.json>
@@ -275,8 +275,8 @@ FAIL https://raw.githubusercontent.com/hasnainzxc/alt-store/HEAD/repo.json  (JSO
      1  rdzSonde  <https://raw.githubusercontent.com/rdzsonde/rdzwx-go/HEAD/altstore-source.json>
      1  lara  <https://raw.githubusercontent.com/rooootdev/lara/HEAD/source.json>
      1  RisuNest  <https://raw.githubusercontent.com/rsyumi/RisuNest/HEAD/alt-source.json>
-     1  nemut.ai  <https://raw.githubusercontent.com/satomasahiro2005/EffectDeck/HEAD/docs/altstore/source.json>
-     1  Se2crid's Source  <https://raw.githubusercontent.com/se2crid/adp/HEAD/app-repo.json>
+     0  nemut.ai  <https://raw.githubusercontent.com/satomasahiro2005/EffectDeck/HEAD/docs/altstore/source.json>
+     0  Se2crid's Source  <https://raw.githubusercontent.com/se2crid/adp/HEAD/app-repo.json>
      1  SideStore Apps  <https://raw.githubusercontent.com/shloooo/SideStore-Repo/HEAD/repo.json>
      1  shplash Repo  <https://raw.githubusercontent.com/shplash/shplash-repo/HEAD/apps.json>
      1  Nobody's AltStore Repo  <https://raw.githubusercontent.com/singlekeycap/justarepo/HEAD/AltStore/apps.json>
@@ -302,7 +302,7 @@ FAIL https://raw.githubusercontent.com/hasnainzxc/alt-store/HEAD/repo.json  (JSO
      1  TorrClient  <https://raw.githubusercontent.com/vjdev1212/torrclient/HEAD/sources/sidestore-source.json>
      5  AltHub-Store  <https://raw.githubusercontent.com/xENWewho/AltHub-Store/HEAD/repo.json>
      4  xN1ckuz's SideBox  <https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/HEAD/repo.json>
-     1  Mirage  <https://raw.githubusercontent.com/xXWapixelXx/Mirage-updates/HEAD/source.json>
+     0  Mirage  <https://raw.githubusercontent.com/xXWapixelXx/Mirage-updates/HEAD/source.json>
      1  r2Vault Source  <https://raw.githubusercontent.com/xaif/r2Vault/HEAD/altstore-source.json>
      0  Shirox  <https://raw.githubusercontent.com/xibrox/Shirox/HEAD/apps.json>
      1  Yattee  <https://raw.githubusercontent.com/yattee/yattee/HEAD/altstore-source.json>
@@ -314,7 +314,7 @@ FAIL https://raw.githubusercontent.com/hasnainzxc/alt-store/HEAD/repo.json  (JSO
 FAIL https://apps.nabzclan.vip/repos/altstore.php  (URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:103)
      0  OwO Source  <https://repo.owo.network/>
 FAIL https://repo.zsign.app/repo.json  (URLError: <urlopen error [Errno 11001] getaddrinfo failed>)
-  4088  Kho ứng dụng UCerts  <https://repo.ucerts.io>
+  4014  Kho ứng dụng UCerts  <https://repo.ucerts.io>
 FAIL https://repo.realmzer.xyz  (URLError: <urlopen error [SSL: TLSV1_ALERT_ACCESS_DENIED] tlsv1 alert access denied (_ssl.c:1032)>)
 FAIL https://repo.chungchi365.com/repo.json  (URLError: <urlopen error [Errno 11001] getaddrinfo failed>)
 FAIL https://repo.whoeevee.com/esign  (URLError: <urlopen error [Errno 11001] getaddrinfo failed>)
@@ -327,7 +327,7 @@ FAIL https://binnichtaktiv.signapp.me/repo/esign.json  (URLError: <urlopen error
 FAIL https://choco-ipa-library-v2.onrender.com/  (HTTPError: HTTP Error 503: Service Unavailable)
      1  SideStore Connect  <https://connect.sidestore.io/apps.json>
 FAIL https://cranci.tech/repo.json  (URLError: <urlopen error [Errno 11001] getaddrinfo failed>)
-FAIL https://css.eyz.ink/appstore  (not an AltStore/ESign source)
+FAIL https://css.eyz.ink/appstore  (URLError: <urlopen error [Errno 11002] getaddrinfo failed>)
      0  Enmity  <https://enmity-mod.github.io/repo/altstore.json>
 FAIL https://gbox.run/Public/Source.json  (URLError: <urlopen error [SSL: TLSV1_ALERT_ACCESS_DENIED] tlsv1 alert access denied (_ssl.c:1032)>)
      1  Ceylo's Apps Hub  <https://get.furaffinity.app/altstore-world/>
@@ -354,7 +354,7 @@ FAIL https://raw.githubusercontent.com/Gliddd4/gliddd4-repo/refs/heads/main/app.
 FAIL https://raw.githubusercontent.com/actuallyaridan/NeoFreeBird/refs/heads/main/AltSource.json  (HTTPError: HTTP Error 404: Not Found)
 FAIL https://raw.githubusercontent.com/arichornloveralt/arichornloveralt.github.io/main/apps.json  (HTTPError: HTTP Error 404: Not Found)
 FAIL https://raw.githubusercontent.com/arichornloverALT/arichornloveralt.github.io/main/apps2.json  (HTTPError: HTTP Error 404: Not Found)
-     1  cbruegg's PAL source  <https://raw.githubusercontent.com/cbruegg/altstore-source/refs/heads/main/source.json>
+     0  cbruegg's PAL source  <https://raw.githubusercontent.com/cbruegg/altstore-source/refs/heads/main/source.json>
      0  driftywinds' Nyx AltStore Repo  <https://raw.githubusercontent.com/driftywinds/driftywinds.github.io/master/AltStore/nyx.json>
      0  driftywinds' Theta AltStore Repo  <https://raw.githubusercontent.com/driftywinds/driftywinds.github.io/master/AltStore/theta.json>
      0  SamHub Apps  <https://raw.githubusercontent.com/jay-goobuh/samhub/main/apps>
